@@ -1,0 +1,19 @@
+body {
+background-color: #DAF7A6 ;
+}
+.heading {
+    font-family: "Righteous", cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color: #F08080;
+    display:block;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+ul,li {
+    list-style-type: none;
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
